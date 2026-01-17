@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		261AE7ED2F1BA48500CC54E0 /* KitchenSink.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KitchenSink.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		261AE8122F1BD38D00CC54E0 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +33,7 @@
 		261AE7E42F1BA48500CC54E0 = {
 			isa = PBXGroup;
 			children = (
+				261AE8122F1BD38D00CC54E0 /* Readme.md */,
 				261AE7EF2F1BA48500CC54E0 /* KitchenSink */,
 				261AE7EE2F1BA48500CC54E0 /* Products */,
 			);
