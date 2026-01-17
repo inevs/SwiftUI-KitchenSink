@@ -22,7 +22,7 @@
 
 Um das Projekt zu bauen und auszuführen, benötigst du:
 
-* **Xcode 16.0** oder neuer
+* **Xcode 26.0** oder neuer
 * **iOS 26.0+** / **macOS 26.0+**
 
 ## Installation
