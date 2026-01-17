@@ -47,7 +47,3 @@ Beiträge sind willkommen! Wenn du ein UI-Element vermisst oder einen Bug findes
 3.  Committe deine Änderungen (`git commit -m 'Add new Toggle Style'`).
 4.  Pushe auf den Branch (`git push origin feature/NeuesElement`).
 5.  Öffne einen Pull Request.
-
-## Lizenz
-
-Dieses Projekt ist unter der MIT Lizenz lizenziert - siehe die [LICENSE](LICENSE) Datei für Details.
