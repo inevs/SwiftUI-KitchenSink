@@ -38,14 +38,6 @@ let navigationItems: [NavigationItem] = [
 ]
 
 // MARK: - Mock Detail Views
-struct ButtonsView: View {
-    var body: some View {
-        Text("Buttons")
-            .font(.largeTitle)
-            .navigationTitle("Buttons")
-    }
-}
-
 struct FormsView: View {
     var body: some View {
         Text("Forms")
