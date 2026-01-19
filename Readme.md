@@ -6,10 +6,6 @@
 
 **KitchenSink** ist eine Multiplattform-App (iOS & macOS), die als interaktive Bibliothek für UI-Elemente dient. Sie ermöglicht Entwicklern und Designern, native UI-Komponenten zu durchsuchen und deren Verhalten sowie Darstellung in Echtzeit zu überprüfen.
 
-<p align="center">
-  <img src="KitchenSink/Assets.xcassets/AppIcon.appiconset/Appicon.png" alt="KitchenSink App Icon" width="150">
-</p>
-
 ## Features
 
 * **Komponenten-Browser:** Eine umfassende Übersicht aller gängigen UI-Elemente (Buttons, Toggles, Slider, Textfelder, Listen, etc.).
